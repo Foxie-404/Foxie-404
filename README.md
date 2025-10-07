@@ -1,9 +1,6 @@
 <div id="title" align=center>
 
-![GIF](https://readme-typing-svg.herokuapp.com?center=true&lines=Ciallo～(∠・ω<+)⌒☆&font=Fira+Code&weight=420&color=blue)
-
-</div>
-
+![GIF](https://readme-typing-svg.herokuapp.com?center=true&lines=Bella+Ciao&font=Fira+Code&weight=630&color=blue)
 
 <table>
     <tr>
@@ -26,6 +23,8 @@
         </td>
     </tr>
 </table>
+
+</div>
 
 
 <details open>
