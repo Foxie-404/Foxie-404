@@ -1,7 +1,5 @@
 <div id="title" align=center>
 
-![GIF](https://readme-typing-svg.herokuapp.com?center=true&lines=Bella+Ciao&font=Fira+Code&weight=630&color=blue)
-
 <table>
     <tr>
         <td colspan="1" align="center">
@@ -11,7 +9,7 @@
         </td>
         <td colspan="1" align="center">
             <a href="">
-                <img alt="Foxie-404's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Foxie-404&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/>
+                <img alt="Foxie-404's Top Languages" src="./profile/top-langs.svg" height="192px"/>
             </a>
         </td>
     </tr>
@@ -23,9 +21,6 @@
         </td>
     </tr>
 </table>
-
-</div>
-
 
 <details open>
     <summary>
@@ -39,3 +34,5 @@
         UNICEF
     </a>
 </details>
+
+</div>
