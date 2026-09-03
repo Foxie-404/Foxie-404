@@ -24,6 +24,7 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&layout=compact&theme=react
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v2
@@ -32,6 +33,7 @@ jobs:
           options: username=${{ github.repository_owner }}&langs_count=8&hide_title=true&hide_border=true&layout=compact&theme=react
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit cards
         run: |
