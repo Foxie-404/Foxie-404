@@ -9,7 +9,7 @@
         </td>
         <td colspan="1" align="center">
             <a href="">
-                <img alt="Foxie-404's Top Languages" src="./profile/top-langs.svg" height="192px"/>
+                <img alt="Foxie-404's Top Languages" src="./profile/langs.svg" height="192px"/>
             </a>
         </td>
     </tr>
